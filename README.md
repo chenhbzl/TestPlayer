@@ -1,4 +1,4 @@
-TestFFmpegJNI
+TestPlayer
 =============
 
 a test
