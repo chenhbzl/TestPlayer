@@ -1,0 +1,4 @@
+TestFFmpegJNI
+=============
+
+a test
